@@ -2,7 +2,7 @@
 
 A feature-rich web application built for a private film club to log, rate, and review movies, curate custom lists, and analyze community viewing statistics.
 
-[👉 View Live Application](https://your-site-name.netlify.app) *(Replace with your real Netlify URL)*
+[👉 View Live Application](https://dimariajawns.netlify.app/)
 
 ---
 
